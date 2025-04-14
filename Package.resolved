@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/rarimo/Swoirenberg.git",
       "state" : {
-        "revision" : "421bcb423dca52174b17f7b5ae36023aa58bb7f9",
-        "version" : "1.1.3"
+        "revision" : "f0e469e0c73cf59444fa3cdf9a9ad61f5e79d280",
+        "version" : "1.1.4"
       }
     }
   ],
