@@ -10,10 +10,10 @@ Pod::Spec.new do |spec|
   spec.platform = :ios
   spec.ios.deployment_target = "14.0"
 
-  spec.source          = {
-    :git    => 'https://github.com/lilbonekit/Swoir.git',
-    :commit => '60330611a4e96837795a08aa4aeaf71859ee51a3'
-  }
+  # spec.source          = {
+  #   :git    => 'https://github.com/lilbonekit/Swoir.git',
+  #   :commit => '60330611a4e96837795a08aa4aeaf71859ee51a3'
+  # }
 
   spec.source_files  = "Sources/**/*.{swift}"
 
