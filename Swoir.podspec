@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
 
   spec.source          = {
     :git    => 'https://github.com/lilbonekit/Swoir.git',
-    :commit => '60330611a4e96837795a08aa4aeaf71859ee51a3'
+    :commit => 'f71069ebfd6141550d8e24bcd57b61baa7425e9a'
   }
 
   spec.source_files  = "Sources/**/*.{swift}"
